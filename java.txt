@@ -1,4 +1,4 @@
-//Imports are listed in null to show what's that should be used
+//Imports are listed in nul to show what's that should be used
 //could just import javax.swing.* and java.awt.* etc..
 import javax.swing.JFrame;
 import javax.swing.JPanel;
